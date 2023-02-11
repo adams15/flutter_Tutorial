@@ -28,7 +28,7 @@ class _BottombarState extends State<Bottombar> {
         selectedItemColor: Colors.blueGrey,
         unselectedItemColor: const Color(0xff526480),
         items: const [
-          BottomNavigationBarItem(icon: Icon(Icons.home), label: "home"),
+          BottomNavigationBarItem(icon: Icon(Icons.home), label: "Home"),
           BottomNavigationBarItem(icon: Icon(Icons.search), label: "search"),
           BottomNavigationBarItem(
               icon: Icon(Icons.airplane_ticket), label: "Ticket"),
